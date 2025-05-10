@@ -12,7 +12,7 @@ Setup Instructions:
 
 3. Run Line 2 to import necessary libraries.
 
-4. Refer to [API Requirements] for needed APIs and Setup
+4. Refer to [Dependencies and API Requirements] for needed APIs and Setup
 
 5. Run code in Order.
 
