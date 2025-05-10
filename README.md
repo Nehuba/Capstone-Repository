@@ -14,6 +14,8 @@ Setup Instructions:
 
 4. Refer to [Dependencies and API Requirements] for needed APIs and Setup
 
-5. Run code in Order.
+5. View Colab Secrets API Setup for Further Setup
 
-6. On final codeline input a research topic, and provide any feedback to update the model once it's complete.
+6. Run code in Order.
+
+7. On final codeline input a research topic, and provide any feedback to update the model once it's complete.
