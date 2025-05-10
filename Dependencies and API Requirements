@@ -1,0 +1,14 @@
+Langchain: (https://python.langchain.com/docs/introduction/)
+!pip install langchain langchain-community langchain-core langchain-openai
+
+OpenAI: (https://platform.openai.com/docs)
+!pip install openai
+- Requires OpenAI API Key for GPT-4 or Equivalent
+
+Tavily: (https://tavily.com/)
+!pip install tavily-python
+- Requires Tavily API Key
+
+SerpAPI: (https://serpapi.com/search-api)
+!pip install google-search-results
+- Requires SerpAPI Key
